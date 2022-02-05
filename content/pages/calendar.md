@@ -6,54 +6,465 @@ uid: a11b4b41-6830-61a2-f43f-974b18e371a4
 
 5.80 includes supplemental lectures as indicated by the (S) symbol.
 
-| SES # | TOPICS |
-| --- | --- |
-| 0 | General information |
-| 1 | Matrices are useful in spectroscopic theory |
-| 1 (S) | Spectroscopic notation, good quantum numbers, perturbation theory and secular equations, non-orthonormal basis sets, transformation of matrix elements of any operator into perturbed basis set |
-| 2 | Coupled harmonic oscillators: truncation of an infinite matrix |
-| 2 (S) | Matrix solution of harmonic oscillator problem, derivation of heisenberg equation of motion, matrix elements of any function of X and P |
-| 3 | Building an effective hamiltonian |
-| 3 (S) | Anharmonic oscillator, vibration-rotation interaction, energy levels of a vibrating rotor |
-| 4 | Atoms: 1e- and alkali |
-| 5 | Alkali and many e- atomic spectra |
-| 6 | Many e- atoms |
-| 7 | How to assign an atomic spectrum |
-| 8 | The Born-Oppenheimer approximation |
-| 8 (S) | Excerpts from the spectra and dynamics of diatomic molecules |
-| 9 | The Born-Oppenheimer approach to transitions |
-| 10 | The Born-Oppenheimer approach to transitions II |
-| 11 | Pictures of spectra and notation |
-| 12 | Rotational assignment of diatomic electronic spectra I |
-| 13 | Laser schemes for rotational assignment first lines for Ω', Ω" assignments |
-| 14 |  {{< br >}}{{< br >}} Definition of angular momenta and &#124; A α MA > {{< br >}}{{< br >}} Evaluation of ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec14image.jpg) {{< br >}}{{< br >}}  |
-| 14 (S) | Rotation and angular momenta |
-| 15 | 2∏ and 2∑ matrices |
-| 16 | Parity and e/f basis for 2∏, 2∑± |
-| 17 | Hund's cases: 2∏, 2∑± examples |
-| 17 (S) | Energy level structure of 2∏ and 2∑ states, matrix elements for 2∏ and 2∑ including ∏ ~ ∑ perturbation, parity |
-| 18 | Perturbations |
-| 18 (S) | A model for the perturbations and fine structure of the ∏ states of CO, factorization of perturbation parameters, the electronic perturbation parameters |
-| 19 | Second-order effects |
-| 19 (S) | Second-order effects: centrifugal distortion and Λ-doubling |
-| 20 | Transformations between basis sets: 3-j, 6-j, and Wigner-Eckart theorem |
-| 21 | Construction of potential curves by the Rydberg-Klein-Rees method (RKR) |
-| 22 | Rotation of polyatomic molecules I |
-| 22 (S) | Energy levels of a rigid rotor, energy levels of an asymmetric rotor |
-| 23 | Asymmetric top |
-| 23 (S) | Energy levels of a rigid rotor, energy levels of an asymmetric rotor |
-| 24 | Pure rotation spectra of polyatomic molecules |
-| 24 (S) | Energy levels of a rigid rotor |
-| 25 | Polyatomic vibrations: normal mode calculations |
-| 26 | Polyatomic vibrations II: s-vectors, G-matrix, and Eckart condition |
-| 27 | Polyatomic vibrations III: s-vectors and H2O |
-| 28 | Polyatomic vibrations IV: symmetry |
-| 29 | A sprint through group theory |
-| 30 | What is in a character table and how do we use it? |
-| 31 | Electronic spectra of polyatomic molecules |
-| 32 | The ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec32image.jpg) transition |
-| 33 | Vibronic coupling |
-| 33 (S) | Time-independent Schrodinger equation for a molecular system |
-| 34 | Wavepacket dynamics |
-| 35 | Wavepacket dynamics II |
-| 36 | Wavepacket dynamics III
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+General information
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Matrices are useful in spectroscopic theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Spectroscopic notation, good quantum numbers, perturbation theory and secular equations, non-orthonormal basis sets, transformation of matrix elements of any operator into perturbed basis set
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Coupled harmonic oscillators: truncation of an infinite matrix
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Matrix solution of harmonic oscillator problem, derivation of heisenberg equation of motion, matrix elements of any function of X and P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Building an effective hamiltonian
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Anharmonic oscillator, vibration-rotation interaction, energy levels of a vibrating rotor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Atoms: 1e- and alkali
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Alkali and many e- atomic spectra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Many e- atoms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+How to assign an atomic spectrum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Born-Oppenheimer approximation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Excerpts from the spectra and dynamics of diatomic molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Born-Oppenheimer approach to transitions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Born-Oppenheimer approach to transitions II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Pictures of spectra and notation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Rotational assignment of diatomic electronic spectra I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Laser schemes for rotational assignment first lines for Ω', Ω" assignments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Definition of angular momenta and | A α MA >
+
+Evaluation of ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec14image.jpg)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Rotation and angular momenta
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+2∏ and 2∑ matrices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Parity and e/f basis for 2∏, 2∑±
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hund's cases: 2∏, 2∑± examples
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Energy level structure of 2∏ and 2∑ states, matrix elements for 2∏ and 2∑ including ∏ ~ ∑ perturbation, parity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Perturbations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+A model for the perturbations and fine structure of the ∏ states of CO, factorization of perturbation parameters, the electronic perturbation parameters
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Second-order effects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Second-order effects: centrifugal distortion and Λ-doubling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Transformations between basis sets: 3-j, 6-j, and Wigner-Eckart theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Construction of potential curves by the Rydberg-Klein-Rees method (RKR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Rotation of polyatomic molecules I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Energy levels of a rigid rotor, energy levels of an asymmetric rotor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Asymmetric top
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Energy levels of a rigid rotor, energy levels of an asymmetric rotor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Pure rotation spectra of polyatomic molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Energy levels of a rigid rotor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Polyatomic vibrations: normal mode calculations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Polyatomic vibrations II: s-vectors, G-matrix, and Eckart condition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Polyatomic vibrations III: s-vectors and H2O
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Polyatomic vibrations IV: symmetry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+A sprint through group theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+What is in a character table and how do we use it?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic spectra of polyatomic molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+The ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec32image.jpg) transition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Vibronic coupling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33 (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Time-independent Schrodinger equation for a molecular system
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Wavepacket dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Wavepacket dynamics II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Wavepacket dynamics III
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
