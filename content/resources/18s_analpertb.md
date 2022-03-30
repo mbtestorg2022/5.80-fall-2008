@@ -5,6 +5,7 @@ description: "Lecture supplement on a model for the perturbations and fine struc
   \ electronic perturbation parameters."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/10e3c54343158a33b89a783f7e1e1ed6_18s_analpertb.pdf
 file_type: application/pdf
+parent_uid: 45cbf973-fa83-2323-e04f-344577c66e15
 resourcetype: Document
 title: 'Lecture #18 Supplement'
 uid: 10e3c543-4315-8a33-b89a-783f7e1e1ed6

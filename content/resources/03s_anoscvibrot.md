@@ -4,6 +4,7 @@ description: Lecture supplement on anharmonic oscillators, vibration-rotation in
   and energy levels of a vibrating rotor.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/0ce088dd609842e73d57535fb994699c_03s_anoscvibrot.pdf
 file_type: application/pdf
+parent_uid: 45cbf973-fa83-2323-e04f-344577c66e15
 resourcetype: Document
 title: 'Lecture #3 Supplement'
 uid: 0ce088dd-6098-42e7-3d57-535fb994699c

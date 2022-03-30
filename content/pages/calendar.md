@@ -190,7 +190,7 @@ Laser schemes for rotational assignment first lines for Ω', Ω" assignments
 
 Definition of angular momenta and | A α MA >
 
-Evaluation of ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec14image.jpg)
+Evaluation of {{< resource "b7b70209-7e9d-67f2-8f04-bead391ea892" >}}
 
 
 {{< tdclose >}}
@@ -417,7 +417,7 @@ Electronic spectra of polyatomic molecules
 32
 {{< tdclose >}}
 {{< tdopen >}}
-The ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec32image.jpg) transition
+The {{< resource "bf031b3c-350b-21f3-8032-3d9fdb64bffe" >}} transition
 {{< tdclose >}}
 
 {{< trclose >}}

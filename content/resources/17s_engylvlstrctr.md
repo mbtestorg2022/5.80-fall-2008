@@ -5,6 +5,7 @@ description: "Lecture supplement on the energy level structure of 2\u03A0 and 2\
   \ states including \u03A0 \u223C \u03A3 perturbation, and parity."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/97ef77089c1a1634f213e47af9204ad9_17s_engylvlstrctr.pdf
 file_type: application/pdf
+parent_uid: 45cbf973-fa83-2323-e04f-344577c66e15
 resourcetype: Document
 title: 'Lecture #17 Supplement'
 uid: 97ef7708-9c1a-1634-f213-e47af9204ad9

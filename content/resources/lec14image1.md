@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 06c2bf45-6a61-cf6c-c661-290027ec047e
 resourcetype: Image
 title: Lecture 14 Image
 uid: dfb005b4-8a75-b3eb-2980-fbfcc100dc62

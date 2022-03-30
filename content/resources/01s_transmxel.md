@@ -5,6 +5,7 @@ description: Lecture supplement on spectroscopic notation, good quantum numbers,
   elements of any operator into perturbed basis set.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/38a08c1f8cecd5173600018cd5abfd09_01s_transmxel.pdf
 file_type: application/pdf
+parent_uid: 45cbf973-fa83-2323-e04f-344577c66e15
 resourcetype: Document
 title: 'Lecture #1 Supplement'
 uid: 38a08c1f-8cec-d517-3600-018cd5abfd09
